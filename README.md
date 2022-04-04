@@ -42,8 +42,5 @@
 <a href="https://www.hackerrank.com/gtanushareddy?hr_r=1" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png"/> </a>
 <a href="https://leetcode.com/Tanu09/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/> </a>
 
-
-<a href="https://github.com/GTanR/github-readme-activity-graph"><img alt="Tanusha Reddy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GTanR&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <a href="https://github.com/GTanR/github-readme-stats"><img alt="Tanusha Reddy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GTanR&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/GTanR/github-readme-stats"><img alt="Tanusha Reddy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GTanR&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
