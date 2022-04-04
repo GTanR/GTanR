@@ -5,7 +5,7 @@
 
 <br>
 
-<h1 align = "center">Hi there <img height = "45px" width = "45px" src = "https://raw.githubusercontent.com/vitasha10/vitasha10/main/assets/Hand%20Wave.gif"> !!! I'm Tanusha Reddy Gurram.</h2>
+<h1 align = "center">Hi there <img height = "50px" width = "45px" src = "https://raw.githubusercontent.com/vitasha10/vitasha10/main/assets/Hand%20Wave.gif"> !!! I'm Tanusha Reddy Gurram.</h2>
 
 <h3 align = "center">A Passionate Web Developer</h3>
 
