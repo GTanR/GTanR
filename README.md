@@ -1,6 +1,6 @@
 
 
-<img width = "500px" height = "500px" href="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"></img>
+<img width = "500px" height = "500px" href="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 ### Hi There 👋 !! I'm Tanusha Reddy Gurram
 
