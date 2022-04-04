@@ -1,6 +1,6 @@
 
 <p align = "center">
-<img width = "800px" height = "500px" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+<img width = "700px" height = "400px" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 </p>
 
 <br>
@@ -17,7 +17,7 @@
 - 😄 Pronouns : She/Her
 - ⚡ Fun fact: I Love Chai, Cats, Coding.
 
-##💻 Languages and Tools:
+## 💻 Languages and Tools:
 
 <p align="left"> 
     <a href="https://www.javatpoint.com/c-programming-language-tutorial" target="_blank"> <img src="https://img.icons8.com/color/48/c-programming.png"/> </a>
