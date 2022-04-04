@@ -41,3 +41,7 @@
 <a href="https://www.linkedin.com/in/gtanushareddy/" target="_blank"> <img src="https://img.icons8.com/color/48/linkedin.png"/> </a>
 <a href="https://www.hackerrank.com/gtanushareddy?hr_r=1" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png"/> </a>
 <a href="https://leetcode.com/Tanu09/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/> </a>
+
+
+<a href="https://github.com/GTanR/github-readme-activity-graph"><img alt="Tanusha Reddy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GTanR&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
