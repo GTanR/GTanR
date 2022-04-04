@@ -7,6 +7,7 @@
 
 <h1 align = "center">Hi there 👋 !!! I'm Tanusha Reddy Gurram.</h1>
 
+<p>
 - 🔭 I’m currently working on Firebase and Vite.js
 - 🌱 I’m currently learning Full Stack Development and Search Engine Optimization.
 - 👯 I’m looking to collaborate on Projects Related to Web Application Development and anything that comes in the field of Computer Science.
@@ -14,4 +15,5 @@
 - 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/gtanushareddy/)
 - 😄 Pronouns : She/Her
 - ⚡ Fun fact: I Love Tea and Coding.
+</p>
 
