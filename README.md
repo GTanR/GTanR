@@ -31,5 +31,4 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.w3schools.com/sql/" target="_blank"> <img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png"/> </a> 
     <a href="https://expressjs.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/32/expressjs_logo_icon_169185.png"/> </a> 
-    
 </p>
