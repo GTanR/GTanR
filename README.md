@@ -40,5 +40,4 @@
 ### 📞 Get In Touch:
 <a href="https://www.linkedin.com/in/gtanushareddy/" target="_blank"> <img src="https://img.icons8.com/color/48/linkedin.png"/> </a>
 <a href="https://www.hackerrank.com/gtanushareddy?hr_r=1" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png"/> </a>
-<a href="https://leetcode.com/Tanu09/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/> </a> 
-<a href="gtanushareddy@gmail.com" target="_blank"> <img src="https://img.icons8.com/color/48/gmail--v1.png"/> </a>
+<a href="https://leetcode.com/Tanu09/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/> </a>
