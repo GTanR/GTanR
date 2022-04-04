@@ -5,9 +5,9 @@
 
 <br>
 
-<h1 align = "center">Hi there <img height = "45px" width = "45px" src = "https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif"> !!! I'm Tanusha Reddy Gurram.</h2>
+<h1 align = "center">Hi there <img height = "40px" width = "45px" src = "https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif"> !!! I'm Tanusha Reddy Gurram.</h2>
 
-<h3 align = "center">A Passionate Web Developer.</h3>
+<h3 align = "center">A Passionate Web Developer</h3>
 
 - 🔭 I’m currently working on Firebase and Vite.js
 - 🌱 I’m currently learning Full Stack Development and Search Engine Optimization.
