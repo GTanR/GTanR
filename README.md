@@ -5,7 +5,7 @@
 
 <br><br>
 
-<b><p align = "center" style="font-size:100px"> Hi there 👋 !!! I'm Tanusha Reddy Gurram.</p></b>
+<h1>Hi there 👋 !!! I'm Tanusha Reddy Gurram.</h1>
 
 - 🔭 I’m currently working on Firebase and Vite.js
 - 🌱 I’m currently learning Full Stack Development and Search Engine Optimization.
