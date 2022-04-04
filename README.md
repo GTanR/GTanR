@@ -6,9 +6,9 @@
 <br>
 
 <p align = "center">
-<p style="font-size:30px">
-Hi there 👋 !!! I'm Tanusha Reddy Gurram
-</p>
+  <p style="font-size:30px">
+    Hi there 👋 !!! I'm Tanusha Reddy Gurram
+  </p>
 </p>
 
 - 🔭 I’m currently working on Firebase and Vite.js
