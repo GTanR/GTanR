@@ -1,5 +1,5 @@
 
-<p align = "centre">
+<p align = "center">
 <img width = "1000px" height = "600px" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 ### Hi There 👋 !! I'm Tanusha Reddy Gurram
