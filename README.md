@@ -1,6 +1,8 @@
-![alt text](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
 
-### HI There 👋 !! I'm Tanusha Reddy Gurram
+
+<img width = "500px" height = "500px" href="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"></img>
+
+### Hi There 👋 !! I'm Tanusha Reddy Gurram
 
 - 🔭 I’m currently working on Firebase and Vite.js
 - 🌱 I’m currently learning Full Stack Development and Search Engine Optimization.
