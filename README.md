@@ -7,7 +7,7 @@
 
 <h2 align = "center">Hi there 👋 !!! I'm Tanusha Reddy Gurram.</h2>
 
-<h3 align = "center">
+<h3 align = "center">A Passionate Web Developer.</h3>
 
 - 🔭 I’m currently working on Firebase and Vite.js
 - 🌱 I’m currently learning Full Stack Development and Search Engine Optimization.
