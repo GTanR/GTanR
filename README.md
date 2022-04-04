@@ -5,20 +5,13 @@
 
 <br>
 
-<h1 align = "center">Hi there 👋 !!! I'm Tanusha Reddy Gurram.</h1>
-<br>
+<h2 align = "center">Hi there 👋 !!! I'm Tanusha Reddy Gurram.</h2>
 - 🔭 I’m currently working on Firebase and Vite.js
-<br>
 - 🌱 I’m currently learning Full Stack Development and Search Engine Optimization.
-<br>
 - 👯 I’m looking to collaborate on Projects Related to Web Application Development and anything that comes in the field of Computer Science.
-<br>
 - 💬 Ask me about anything.
-<br>
 - 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/gtanushareddy/)
-<br>
 - 😄 Pronouns : She/Her
-<br>
 - ⚡ Fun fact: I Love Chai, Cats, Coding.
 
 ## 🚀 Languages and Tools:
