@@ -17,7 +17,7 @@
 - 😄 Pronouns : She/Her
 - ⚡ Fun fact: I Love Chai, Cats, Coding.
 
-## 🚀 Languages and Tools:
+##💻 Languages and Tools:
 
 <p align="left"> 
     <a href="https://www.javatpoint.com/c-programming-language-tutorial" target="_blank"> <img src="https://img.icons8.com/color/48/c-programming.png"/> </a>
