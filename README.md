@@ -5,8 +5,8 @@
 
 <br>
 
-<p align = "center" style = "font-size:20px"><b>
-Hi There 👋 !! I'm Tanusha Reddy Gurram
+<p align = "center" style ="font-size:40px"><b>
+Hi there 👋 !!! I'm Tanusha Reddy Gurram
 </b>
 </p>
 
