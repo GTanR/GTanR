@@ -13,5 +13,6 @@
 - 💬 Ask me about anything.
 - 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/gtanushareddy/)
 - 😄 Pronouns : She/Her
-- ⚡ Fun fact: I Love Chai,Cats,Coding.
+- ⚡ Fun fact: I Love Chai, Cats, Coding.
 
+[https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff]
