@@ -5,7 +5,7 @@
 
 <br>
 
-<h2 align = "center">Hi there 👋 !!! I'm Tanusha Reddy Gurram.</h2>
+<h1 align = "center">Hi there 👋 !!! I'm Tanusha Reddy Gurram.</h2>
 
 <h3 align = "center">A Passionate Web Developer.</h3>
 
