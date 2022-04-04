@@ -3,8 +3,11 @@
 <img width = "800px" height = "500px" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 </p>
 
-<p align = "center">
+<br>
+
+<p align = "center"><b>
 Hi There 👋 !! I'm Tanusha Reddy Gurram
+ </b>
 </p>
 
 - 🔭 I’m currently working on Firebase and Vite.js
